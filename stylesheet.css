@@ -1,0 +1,53 @@
+#profile-pic{
+    max-width: 75%;
+    max-height: 75%;
+}
+
+.about{
+    width: 500px;
+    background: rgba(0,0,0,0.7);
+    padding: 50px;
+    text-align:center;
+    margin:auto !important;
+    margin-top:1% !important;
+    color:white;
+    font-family: 'serif', Georgia;
+}
+
+.about h1{
+    font-size:30px;
+    font-weight:50;
+}
+
+.about p{
+    margin-top: -20px;
+    margin-bottom: -10px;
+}
+
+.contact li{
+    display: inline-block;
+    margin: 10px !important;
+    list-style: none;
+    margin-top:-100px !important;
+    margin-bottom:-100px !important;
+}
+
+.contact li a{
+    color: white;
+    font-size: 35px;
+}
+
+.contact li a:hover{
+    color: #b8b8b8;
+}
+
+.contact {
+    width: 500px;
+    background: rgba(0,0,0,0.7);
+    padding: 50px;
+    text-align:center;
+    margin:auto;
+    color:white;
+    font-family: 'serif', Georgia;
+}
+
