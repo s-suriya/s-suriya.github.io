@@ -11,7 +11,7 @@
     margin:auto !important;
     margin-top:1% !important;
     color:white;
-    font-family: 'serif', Georgia;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .about h1{
@@ -48,6 +48,6 @@
     text-align:center;
     margin:auto;
     color:white;
-    font-family: 'serif', Georgia;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
